@@ -1,0 +1,14 @@
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.AssemblyInfo.cs
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\bin\Debug\net8.0\AtividadesEstagio.exe
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\bin\Debug\net8.0\AtividadesEstagio.deps.json
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\bin\Debug\net8.0\AtividadesEstagio.runtimeconfig.json
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\bin\Debug\net8.0\AtividadesEstagio.dll
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\bin\Debug\net8.0\AtividadesEstagio.pdb
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.dll
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\refint\AtividadesEstagio.dll
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.pdb
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\AtividadesEstagio.genruntimeconfig.cache
+C:\Users\felip\source\repos\AtividadesEstagio\AtividadesEstagio\obj\Debug\net8.0\ref\AtividadesEstagio.dll
